@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T20:19:13.773Z" agent="5.0 (Windows)" etag="1LDyV79o47QoxqhTPacK" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T20:30:49.084Z" agent="5.0 (Windows)" etag="Nb1qxz06k4689QhJJS8F" version="14.2.9" type="github">
   <diagram id="dP-3ydXmpXhY3HkfoGGU" name="Page-1">
-    <mxGraphModel dx="1955" dy="1083" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1083" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VHmf-gFBF9Twc_fDAIp--51" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="12" y="12" width="1074" height="822" as="geometry" />
+        <mxCell id="VHmf-gFBF9Twc_fDAIp--55" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="12" y="8" width="1082" height="835" as="geometry" />
         </mxCell>
         <mxCell id="VHmf-gFBF9Twc_fDAIp--50" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="606" y="668" width="60.81" height="64.62" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="VHmf-gFBF9Twc_fDAIp--53" value="Santa Fe" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="206" y="84" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VHmf-gFBF9Twc_fDAIp--54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="431" y="548" width="25.5" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
